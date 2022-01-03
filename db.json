@@ -1,4 +1,10 @@
 {
+  "trans": [
+    { "id": 1, "description": "Salary", "amount": "22450.00", "date": "2021-12-2", "type": "cr" },
+    { "id": 2, "description": "Expenses", "amount": "450.00", "date": "2021-12-20", "type": "dr" },
+    { "id": 3, "description": "Petrol", "amount": "200.00", "date": "2021-12-20", "type": "dr" },
+    { "id": 4, "description": "school fee", "amount": "7500.00", "date": "2021-12-20", "type": "dr" },
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
